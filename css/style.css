@@ -160,3 +160,5 @@ svg .o{stroke:#2B2A4C;stroke-width:6;stroke-linejoin:round}
 .c8 .med{height:64px;width:auto;margin:-10px 6px -10px 0;transform:rotate(-6deg)}
 .rfg section:first-child{flex:1.12}.rfa{gap:10px}
 .rfj{margin-top:6px;flex:none}.rfj .rfk{display:inline;margin-right:10px}.rfa{gap:6px}.rfc{font-size:20px;line-height:26px;padding:8px 14px}.rfa{font-size:20px;line-height:25px}
+
+.wspin{animation:wspin 2.4s linear infinite}@keyframes wspin{to{transform:rotate(360deg)}}
